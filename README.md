@@ -44,7 +44,7 @@ A modern, responsive website that showcases job openings from different platform
 ## 📞 Support
 
 For support or questions, please contact:
-- Email: info@prepmate.com
+- Email: codecatalyst@gmail.com
 - Phone: +91-9378093270
 
 ## 🔄 Updates
